@@ -1,4 +1,13 @@
 {
     "defaultListView": false,
-    "loaders": []
+    "loaders": [
+        {
+            "id": "BO6 Unlock All + Spoofer",
+            "name": "BO6 Unlock All + Spoofer",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cobraot.github.io/AW-Loaders/Unlocker.exe",
+            "status": "online",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1314993141220118568/1332909323310989312/Unlock_All.png?ex=6797a0ca&is=67964f4a&hm=c0f677ff83dedcbb033f7b88516751784552d51be5c55e687f399e6048f0f4cf&"
+        }
+    ]
 }
