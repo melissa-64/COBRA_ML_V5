@@ -24,6 +24,14 @@
             "downloadUrl": "https://cdn.discordapp.com/attachments/1312893358750044170/1312894109727461406/ldr_km8RW3wI.exe?ex=679752ac&is=6796012c&hm=a2d59ff73fb7c17796775c3a8bcc63f89ea43ef432ffe62b78e935ec874a3b3b&",
             "status": "online",
             "imageUrl": "https://cdn.discordapp.com/attachments/1314993141220118568/1332909321792520254/ombra.png?ex=6797a0ca&is=67964f4a&hm=ab60a15ba32fe87c2586a5b1872b40aadc88b394038f192029a3f691c774bb83&"
+        },
+        {
+            "id": "COD External Chair",
+            "name": "COD External Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cobraot.github.io/AW-Loaders/External.exe",
+            "status": "online",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1314993141220118568/1332909322321133589/external.png?ex=6797a0ca&is=67964f4a&hm=599faf2a82bb434e0e9f8af3c269b12e095bb1be48050f7fde58435bed45f323&"
         }
     ]
 }
