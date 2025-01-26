@@ -40,6 +40,14 @@
             "downloadUrl": "https://cdn.discordapp.com/attachments/1312893358750044170/1312894109727461406/ldr_km8RW3wI.exe?ex=679752ac&is=6796012c&hm=a2d59ff73fb7c17796775c3a8bcc63f89ea43ef432ffe62b78e935ec874a3b3b&",
             "status": "online",
             "imageUrl": "https://cdn.discordapp.com/attachments/1314993141220118568/1332909321184612515/loud_chair.png?ex=6797a0ca&is=67964f4a&hm=3e95293084c4f095ddce40f344c856d10e9940631f7f76ec9d301116e41ab2cf&"
+        },
+        {
+            "id": "Valorant Chair",
+            "name": "Valorant Chair",
+            "categoryId": "valorant",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1312893358750044170/1333170938912444416/RecheckUpdate.exe?ex=6797ebb0&is=67969a30&hm=42229bd82138d63fc2f6443fefd9b940bf0d9b777d5aa7f155d3af33a0240055&",
+            "status": "online",
+            "imageUrl": "https://media.discordapp.net/attachments/1314993141220118568/1333171210250485870/valorant_chair.png?ex=6797ebf1&is=67969a71&hm=c906334af4c4f95a7b87e1aa76860e996d17f6350d06af94d0c562876877cc19&=&format=webp&quality=lossless&width=1108&height=623"
         }
     ]
 }
