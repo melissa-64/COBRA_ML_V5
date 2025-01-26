@@ -1,13 +1,4 @@
 {
     "defaultListView": false,
-    "loaders": [
-        {
-            "id": "Unlock All",
-            "name": "Unlock All",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cobraot.github.io/AW-Loaders/Unlocker.exe",
-            "status": "online",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1314993141220118568/1328461291722903746/2.gif?ex=6786c97d&is=678577fd&hm=33ea78724fdcb11b4bc879d62cfa697d546a4eefedfd7ebbec81fa0bc84a5a55&"
-        }
-    ]
+    "loaders": []
 }
