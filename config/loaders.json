@@ -1,13 +1,4 @@
 {
     "defaultListView": false,
-    "loaders": [
-        {
-            "id": "COD External Chair",
-            "name": "COD External Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cobraot.github.io/AW-Loaders/External.exe",
-            "status": "online",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1314993141220118568/1332909322321133589/external.png?ex=6797a0ca&is=67964f4a&hm=599faf2a82bb434e0e9f8af3c269b12e095bb1be48050f7fde58435bed45f323&"
-        }
-    ]
+    "loaders": []
 }
