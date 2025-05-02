@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "BO6 AimWare Chair + Spoofer",
-            "name": "BO6 AimWare Chair + Spoofer",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cobraot.github.io/AW-Loaders/Loader.exe",
-            "status": "online",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1314993141220118568/1332909341329592330/AW_Chairi.png?ex=6797a0cf&is=67964f4f&hm=6b2df0c2bf1c7f5fc7b3c0edf6d48c2c47249504dc42979868af86902e5649e1&"
-        },
-        {
             "id": "COD External Chair",
             "name": "COD External Chair",
             "categoryId": "bo6",
